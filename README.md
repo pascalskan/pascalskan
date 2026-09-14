@@ -1,3 +1,8 @@
+**Looking for a junior or graduate role in data, machine learning or software engineering. UK-based or remote, available now.**
+
+Computer Science graduate (Newcastle, 2026). Based in Leicester, willing to
+relocate. Currently building and maintaining websites for two freelance clients.
+
 Most of what I build is either a site somebody is relying on today, or a question I wanted a proper answer to.
 
 Two of the five repositories here are client work and are private, so what you can read is a subset. Short descriptions of both are below.
@@ -56,7 +61,6 @@ I verify against the thing itself rather than the tool that reports on it, and I
 
 ---
 
-*Currently open to opportunities.*
+**pskannavis@gmail.com** · [LinkedIn](https://www.linkedin.com/in/pascal-skannavis/)
 
-<!-- Add a contact line here, e.g.:
-     *Currently open to opportunities. Reach me at you@example.com or on [LinkedIn](https://linkedin.com/in/...).*  -->
+*Leicester, willing to relocate. Available now.*
